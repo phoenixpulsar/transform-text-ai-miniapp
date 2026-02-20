@@ -6,7 +6,7 @@ import { nodePolyfills } from 'vite-plugin-node-polyfills';
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/bot-one-miniapp/',
+  base: '/transform-text-ai-miniapp/',
   css: {
     preprocessorOptions: {
       scss: {
