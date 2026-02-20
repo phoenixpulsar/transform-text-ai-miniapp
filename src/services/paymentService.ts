@@ -59,7 +59,7 @@ export class PaymentServiceError extends Error {
   }
 }
 
-const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || 'https://imaginative-rebirth-production.up.railway.app';
+const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || 'https://transform-text-ai-bot-api-production.up.railway.app';
 
 export async function confirmPayment(data: PaymentConfirmation): Promise<PaymentResponse> {
   try {
