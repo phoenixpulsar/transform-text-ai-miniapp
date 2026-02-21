@@ -348,18 +348,18 @@ export const PurchasePage: FC = () => {
               </svg>
             </div>
 
-            <h1 className={e("hero-title")}>Unlock AI Document Power</h1>
+            <h1 className={e("hero-title")}>AI Text Transformation</h1>
             <p className={e("hero-subtitle")}>
-              Transform your documents with cutting-edge AI. Fast, secure,
-              powered by TON.
+              Perfect your writing with AI-powered grammar and spelling
+              correction. Fast, secure, powered by TON.
             </p>
 
             <div className={e("features")}>
               <div className={e("feature")}>
                 <span className={e("feature-icon")}>⚡</span>
                 <div className={e("feature-text")}>
-                  <strong>Lightning Fast</strong>
-                  <span>Process in seconds</span>
+                  <strong>Instant Results</strong>
+                  <span>Transform text in seconds</span>
                 </div>
               </div>
               <div className={e("feature")}>
@@ -373,7 +373,7 @@ export const PurchasePage: FC = () => {
                 <span className={e("feature-icon")}>✨</span>
                 <div className={e("feature-text")}>
                   <strong>AI-Powered</strong>
-                  <span>Smart analysis</span>
+                  <span>Grammar & spelling correction</span>
                 </div>
               </div>
             </div>
